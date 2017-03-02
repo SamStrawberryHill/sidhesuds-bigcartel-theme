@@ -1,0 +1,21 @@
+{
+  "pinterest_url": "",
+  "welcome_background_color": "#F9F9F9",
+  "secondary_font": "Work Sans",
+  "error_text_color": "#F04848",
+  "welcome_message": "Cleanliness is next to godliness...  ",
+  "twitter_url": "",
+  "welcome_button_text": "Indulge",
+  "facebook_url": "",
+  "background_color": "#FFFFFF",
+  "featured_items_type": "Products",
+  "welcome_text_color": "#121212",
+  "tumblr_url": "",
+  "featured_items": 3,
+  "primary_text_color": "#121212",
+  "instagram_url": "https://www.instagram.com/sidhesuds",
+  "products_per_page": 12,
+  "primary_font": "Work Sans",
+  "product_detail_alignment": "Left",
+  "secondary_text_color": "#A0A0A0"
+}
